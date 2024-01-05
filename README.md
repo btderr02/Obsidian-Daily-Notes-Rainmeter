@@ -16,5 +16,5 @@ I started the project from a forum answer from jsmorely on the Rainmeter Forums:
 
 With the text now displayed on the Rainmeter skin, the next step was to translate the markdown formatting. This was slightly complicated because of the way that Rainmeter handles text as one string.  In the Rainmeter .ini file, I used regular expression tags to select certain patterns in the text which match markdown formatting standards. Markdown formatting indicators are selected. Text associated with those indicators are assigned appropriate formatting. The indicators themselves are set to size 0.001 to effectively make them invisible. Most of the formatting options are native within Rainmeter. Checkboxes, however, were an exception. I used regex tags in the lua script to find check boxes and replace them with unicode filled and unfilled squares. I then tweaked the design of the skin to match Obsidian's design as closely as possible. After implementing markdown formatting, I added the GUI for entering a folder path and adjusted line indentation.
 
-### Closing
+### 5. Closing
 Overall, I have really enjoyed the process of working on this project. It is something that I wanted for personal use and decided others might find it useful as well. The markdown -> Rainmeter formatting might be useful for other projects and further integration between Obsidian and Rainmeter.

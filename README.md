@@ -7,7 +7,7 @@ I recently began using Obsidian to take notes, make to-do lists, etc. I use the 
 - Using on "YYYY-MM-DD" date format, read the matching file in a given folder (the same folder that the Calendar plugin points to).
 - Display the contents of the file with markdown formatting.
 ### 3. Usage
-- Download and install: (Insert GitHub link here)
+- Download and install
 - Left click on the skin and paste your daily note file location.
 ### 4. Creation Process for Those Who Care
 Rainmeter is typically used for a task like this. If you are not familiar with the program, it is a desktop customization tool that is primarily used for displaying system information or providing links to external applications. User created "skins" can be thought of as widgets on the desktop and typically show things like the date and time, weather forecasts, or hardware statuses. Rainmeter allows for some functionality simply by creating and editing a new .ini file. Within a skin's .ini file there are "measures" which read information and "meters" which display information. Skin functionality is extended greatly by the ability to call lua scripts from the main .ini file. 

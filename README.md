@@ -4,7 +4,7 @@ This simple rainmeter skin displays daily notes written with markdown formatting
 I recently began using Obsidian to take notes, make to-do lists, etc. I use the Calendar community plugin to create daily notes for planning out my day. I wanted a Rainmeter skin that displayed each day's note from my Obsidian vault on my desktop. Such a skin did not exist, so I made it myself.
 ### 2. Functionality
 - Read system time.
-- Using on "YYYY-MM-DD" date format, read the matching file in a given folder (the same folder that the Calendar plugin points to).
+- Using "YYYY-MM-DD" date format, read the matching file in a given folder (the same folder that the Calendar plugin points to).
 - Display the contents of the file with markdown formatting.
 ### 3. Usage
 - Download and install
